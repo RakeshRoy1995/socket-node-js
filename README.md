@@ -1,2 +1,1 @@
-# socket-node-js
-implement socket-io example in node js
+How to write code of Socket.io in node js
